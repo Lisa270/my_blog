@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ca1fdb6-732c-4f06-af9d-c2400f05f0e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mysite/app/static/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/app/templates/app/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/templates/app/post_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -109,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689078671401</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feature: Modified templates to display posts from database.">
+      <created>1689083311613</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689083311613</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my second commit" />
     <MESSAGE value="feature: add urls.py, add post_list.html, add views.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: add urls.py, add post_list.html, add views.py" />
+    <MESSAGE value="feature: Modified templates to display posts from database." />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: Modified templates to display posts from database." />
   </component>
 </project>
