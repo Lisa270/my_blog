@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ca1fdb6-732c-4f06-af9d-c2400f05f0e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mysite/app/static/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/app/templates/app/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/app/templates/app/post_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/app/static/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/static/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/app/templates/app/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/templates/app/post_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689083311613</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feature: add app.css, update post_list.html">
+      <created>1689168441461</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689168441461</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +143,7 @@
     <MESSAGE value="my second commit" />
     <MESSAGE value="feature: add urls.py, add post_list.html, add views.py" />
     <MESSAGE value="feature: Modified templates to display posts from database." />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: Modified templates to display posts from database." />
+    <MESSAGE value="feature: add app.css, update post_list.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: add app.css, update post_list.html" />
   </component>
 </project>
